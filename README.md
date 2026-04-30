@@ -1,1 +1,151 @@
-PHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Imh0dHBzOi8vcGFkbGlucS5jb20vZmF2aWNvbi5wbmciIHdpZHRoPSI3MiIgaGVpZ2h0PSI3MiIgYWx0PSJQYWRsaW5RIGxvZ28iIC8+CiAgPGgxPlBhZGxpblE8L2gxPgogIDxwPjxzdHJvbmc+WW91ciBwaG9uZSBpcyB0aGUgY29udHJvbGxlciB5b3UgZm9yZ290IHlvdSBoYWQuPC9zdHJvbmc+PC9wPgogIDxwPgogICAgPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL1RyaW9tYXg2Ni9wYWRsaW5xLWRpc3QvcmVsZWFzZXMvbGF0ZXN0Ij4KICAgICAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vZ2l0aHViL3YvcmVsZWFzZS9UcmlvbWF4NjYvcGFkbGlucS1kaXN0P2xhYmVsPWxhdGVzdCZzdHlsZT1mbGF0LXNxdWFyZSZjb2xvcj0wMGZmODUiIGFsdD0iR2l0SHViIFJlbGVhc2UiIC8+CiAgICA8L2E+CiAgICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9wbGF0Zm9ybS1XaW5kb3dzJTIwMTAlMkYxMS1ibHVlP3N0eWxlPWZsYXQtc3F1YXJlIiBhbHQ9IldpbmRvd3MgMTAvMTEiIC8+CiAgICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9mcmVlLXdoaWxlJTIwaW4lMjBiZXRhLWdyZWVuP3N0eWxlPWZsYXQtc3F1YXJlIiBhbHQ9IkZyZWUgd2hpbGUgaW4gYmV0YSIgLz4KICA8L3A+CiAgPHA+CiAgICA8YSBocmVmPSJodHRwczovL3BhZGxpbnEuY29tIj5XZWJZPC9hPiAmbWlkZG90OwogICAgPGEgaHJlZj0iaHR0cHM6Ly9wYWRsaW5xLmNvbS9hcHAiPkhvc3QgYSBzZXNzaW9uPC9hPgogIDwvcD4KPC9wPgoKLS0tCgojIyBUaHJlZSBzdGVwcy4gVW5kZXIgYSBtaW51dGUuCgp8IHwgfAp8LS18LS18CnwgKipJbnN0YWxsKiogfCBSdW4gYHBhZGxpbnEtc2V0dXAuZXhlYC4gT25lIGNsaWNrIC0tIFdpbmRvd3MgcHJvbXB0cyBmb3IgYWRtaW4sIHRoZSBkcml2ZXIgaXMgc2V0IHVwIGZvciB5b3UuIHwKfCAqKkNsYWltKiogfCBUaGUgaGVscGVyIHByaW50cyBhIGxpbmsgdG8gYHBhZGxpbnEuY29tL2FwcGAgd2l0aCB5b3VyIFBDIHByZWZpbGxlZC4gSGl0IENsYWltIGFuZCBhIHNlc3Npb24gUVIgYXBwZWFycy4gfAp8ICoqUGxheSoqIHwgUG9pbnQgeW91ciBwaG9uZSdzIGNhbWVyYSBhdCB0aGUgUVIuIFRoZSBjb250cm9sbGVyIGxvYWRzIGluIHRoZSBicm93c2VyLCBhbmQgV2luZG93cyBzZWVzIGl0IGFzIGFuIFhib3ggcGFkLiB8CgotLS0KCiMjIFdoYXQgaXQgZG9lcwoKPiAqU2NhbiBhIFFSLiBQbGF5IFN0ZWFtLCBHYW1lIFBhc3MsIG9yIGFueSBQQyBnYW1lIC0tIGF0IGhvbWUgb3IgYWNyb3NzIHRoZSBpbnRlcm5ldC4gU3RyZWFtIHRoZSBzY3JlZW4gYmFjayB0byB5b3VyIHBob25lLCBzcGxpdCBpdCBiZXR3ZWVuIHVwIHRvIDggcGxheWVycywgYW5kIHBpY2sgZnJvbSAxNSsgY29udHJvbGxlciBsYXlvdXRzLiBObyBhcHAgb24gdGhlIHBob25lLiBObyBjYWJsZXMuIE5vIHNwYXJlIGNvbnRyb2xsZXJzIHRvIGh1bnQgZG93bi4qCgojIyMgUGxheQoKLSAqKk5vIHBob25lIGFwcCwgZXZlciAtLSoqIFNjYW4gYSBRUiBhbmQgdGhlIGNvbnRyb2xsZXIgbG9hZHMgaW4geW91ciBwaG9uZeKAmXMgYnJvd3Nlci4gaVBob25lIGFuZCBBbmRyb2lkLCBubyBBcHAgU3RvcmUsIG5vIHBlcm1pc3Npb25zIGRhbmNlLgotICoqRmVlbHMgbGlrZSBhIHJlYWwgZ2FtZXBhZCAtLSoqIFdpbmRvd3Mgc2VlcyBhIHZpcnR1YWwgWGJveCAzNjAgKFhJbnB1dCkgb3IgRHVhbFNob2NrIDQgKERJbnB1dCkgcGFkLiBTdGVhbSwgZW11bGF0b3JzLCBHYW1lIFBhc3MsIGV2ZXJ5IFBDIGdhbWUuCi0gKipVcCB0byA4IHBsYXllcnMgLS0qKiBDb3VjaCBjby1vcCBmb3IgdGhlIHdob2xlIHJvb20gd2l0aG91dCBldmVyIGJ1eWluZyBhbm90aGVyIGNvbnRyb2xsZXIuCi0gKipQbGF5cyBhbnl3aGVyZSBvbiB0aGUgaW50ZXJuZXQgLS0qKiBEZWZhdWx0IG1vZGUgcGFpcnMgb3ZlciBhIHRpbnkgc2lnbmFsbGluZyByZWxheSBzbyB0aGUgcGhvbmUgZG9lc27igJl0IG5lZWQgdG8gYmUgb24gdGhlIHNhbWUgV2lGaS4gSW5wdXRzIGZsb3cgcGVlci10by1wZWVyIG92ZXIgV2ViUlRDIGFmdGVyIHBhaXJpbmcuCi0gKipBZGQgdG8gSG9tZSBTY3JlZW4gb24gaVBob25lIC0tKiogUGFkbGluUSBpbnN0YWxscyBhcyBhIFBXQS4gT25lIHRhcCBsYXVuY2hlcyB0aGUgY29udHJvbGxlciBmdWxsc2NyZWVuLgoKIyMjIFN0cmVhbSB5b3VyIFBDIHNjcmVlbgoKLSAqKlNlZSB5b3VyIGdhbWUgb24geW91ciBwaG9uZSAtLSoqIFRvZ2dsZSBzY3JlZW4gc3RyZWFtaW5nIGluIGFkbWluIGFuZCB5b3VyIFBDIGRpc3BsYXkgYXBwZWFycyBsaXZlIGJlaGluZCB0aGUgb24tc2NyZWVuIGNvbnRyb2xsZXIuCi0gKipTdHJlYW0gYSBzaW5nbGUgd2luZG93IC0tKiogV0dDIGNhcHR1cmUgc2VuZHMganVzdCBvbmUgYXBwIGluc3RlYWQgb2YgdGhlIHdob2xlIGRlc2t0b3AuIE5vdGlmaWNhdGlvbnMgYW5kIHNlY29uZCBtb25pdG9ycyBzdGF5IHByaXZhdGUuCi0gKipTcGxpdHNjcmVlbiBmb3IgZXZlcnkgcGxheWVyIC0tKiogRHJhZy1hbmQtZHJvcCByZWdpb24gZWRpdG9yIGluIGFkbWluIGFzc2lnbnMgZWFjaCBwaG9uZSBhIHNsaWNlIG9mIHRoZSBzdHJlYW0uCi0gKipIYXJkd2FyZS1hY2NlbGVyYXRlZCAtLSoqIE5WRU5DLCBRdWljayBTeW5jLCBBTUYgYW5kIFZBQVBJIHBhdGhzLiBQbGF5b3V0LWRlbGF5IGhpbnRzIHNldCB0byB6ZXJvLgoKIyMjIEN1c3RvbWl6ZQoKLSAqKjE1KyBjb250cm9sbGVyIGxheW91dHMgLS0qKiBYYm94LCBQbGF5U3RhdGlvbiwgTkVTLCBTTkVTLCBONjQsIEdhbWVDdWJlLCBHZW5lc2lzLCBKb3ktQ29uLCBmaWdodCBzdGljaywgcmFjaW5nIHdoZWVsLCBhbmQgbW9yZS4KLSAqKjcgdmlzdWFsIHRoZW1lcyAtLSoqIERlZmF1bHQsIERhcmssIE5lb24sIE1vbm8sIEFyY2FkZSwgR2xhc3MsIGFuZCBIaWdoLUNvbnRyYXN0LgotICoqU21hcnQgdHJpZ2dlcnMgLS0qKiBUYXAgPSBkaWdpdGFsLiBEcmFnIHBhc3QgdGhlIHRocmVzaG9sZCA9IGFuYWxvZy4gU2FtZSBidXR0b24sIGJvdGggYmVoYXZpb3JzLgotICoqRGVzaWduIHlvdXIgb3duIGxheW91dCAtLSoqIEluLWFwcCBlZGl0b3IgZm9yIGV2ZXJ5IGJ1dHRvbiwgc3RpY2ssIGFuZCB0cmlnZ2VyLiBSZXNpemUsIHJlcG9zaXRpb24sIHNoYXJlIGJ5IFVSTC4KLSAqKlRpbHQgc3RlZXJpbmcgJiBoYXB0aWNzIC0tKiogUmFjaW5nIGxheW91dCB1c2VzIHBob25lIHRpbHQgZm9yIHRoZSBsZWZ0IHN0aWNrLiBBbmRyb2lkIGdldHMgcnVtYmxlIG9uIGV2ZXJ5IHByZXNzLgoKIyMjIFRydXN0CgotICoqUGVlci10by1wZWVyIC0tKiogVGhlIHJlbGF5IG9ubHkgaW50cm9kdWNlcyB5b3VyIHBob25lIHRvIHlvdXIgUEMuIE9uY2UgcGFpcmVkLCBldmVyeSBieXRlIC0tIGlucHV0cywgYXVkaW8sIHNjcmVlbiAtLSBmbG93cyBkaXJlY3RseSBiZXR3ZWVuIHRoZSB0d28gZGV2aWNlcyBhbmQgbmV2ZXIgdG91Y2hlcyBvdXIgc2VydmVycy4KLSAqKk5vIGFjY291bnQuIE5vIHRlbGVtZXRyeS4gLS0qKiBObyBzaWduLXVwLCBubyBlbWFpbCBjb2xsZWN0aW9uLCBubyBhbmFseXRpY3MgcGluZyBieSBkZWZhdWx0LgotICoqRnJlZSB3aGlsZSBpbiBiZXRhIC0tKiogTm8gY2FyZCwgbm8gc2lnbnVwLCBubyBuYWcgc2NyZWVucy4gVW5pbnN0YWxsIHRha2VzIGV2ZXJ5dGhpbmcgd2l0aCBpdC4KCi0tLQoKIyMgV2hvIGl0J3MgZm9yCgp8IHwgfAp8LS18LS18CnwgPGJyPiDwn5uX77iPIDxicj48YnI+ICoqQ291Y2ggZ2FtaW5nKiogfCBUViBtaXJyb3JlZCBmcm9tIHlvdXIgUEMsIHBob25lIGluIGhhbmQuIE5vIGNhYmxlcywgbm8gZXh0cmEgaGFyZHdhcmUuIHwKfCA8YnI+IPCfkaUgPGJyPjxicj4gKipHYW1lIG5pZ2h0cyoqIHwgRnJpZW5kcyB3YWxrIGluLCBzY2FuIGEgUVIsIHRoZXkncmUgcGxheWVyIHR3by4gU2tpcCB0aGUgY29udHJvbGxlciBodW50LiB8CnwgPGJyPiDihrXvuI8gPGJyPjxicj4gKipUcmF2ZWwgJiByZW1vdGUgcGxheSoqIHwgSG90ZWwgV2lGaSwgcGFyZW50cycgaG91c2UsIGFueXdoZXJlIHdpdGggaW50ZXJuZXQg4oCUIHlvdXIgUEMgaXMgb25lIFFSIGF3YXkuIHwKfCA8YnI+IPCfkLYgPGJyPjxicj4gKipLaWQtZnJpZW5kbHkqKiB8IFRoZXkgdXNlIHRoZWlyIHBob25lcyBvciB0YWJsZXRzLCBub3QgYW4gZXh0cmEgY29udHJvbGxlci4gQ3VzdG9tIGxheW91dHMgZm9yIHNtYWxsIGhhbmRzLiB8CnwgPGJyPiDwn5W577iPIDxicj48YnI+ICoqUmV0cm8gJiBlbXVsYXRvcnMqKiB8IE5FUywgU05FUywgTjY0LCBmaWdodCBzdGljayBsYXlvdXRzIHNoaXAgaW4gdGhlIGJveC4gQnVpbHQgZm9yIGVtdWxhdG9yIGZyb250LWVuZHMuIHwKfCA8YnI+IPCfjqYgPGJyPjxicj4gKipTdHJlYW1lcnMqKiB8IENhcHR1cmUgYSBzaW5nbGUgZ2FtZSB3aW5kb3cgc28geW91ciBzZWNvbmQgbW9uaXRvciBhbmQgbm90aWZpY2F0aW9ucyBzdGF5IG9mZi1zdHJlYW0uIHwKCi0tLQoKIyMgRG93bmxvYWQKCnwgRmlsZSB8IFdoZW4gdG8gdXNlIHwKfC0tfC0tfAp8ICoqYHBhZGxpbnEtc2V0dXAtWC5ZLlouZXhlYCoqIHwgUmVjb21tZW5kZWQgZm9yIG1vc3QgdXNlcnMuIEluc3RhbGxzIHRoZSBWaUdFbUJ1cyBkcml2ZXIgYW5kIHJlZ2lzdGVycyBhIG1lbnUgc2hvcnRjdXQuIHwKfCAqKmBwYWRsaW5xLXBvcnRhYmxlLVguWS5aLmV4ZWAqKiB8IFNlbGYtY29udGFpbmVkIHNpbmdsZSBleGVjdXRhYmxlLiBSdW5zIHdpdGhvdXQgaW5zdGFsbGluZy4gVmlHRW1CdXMgbXVzdCBhbHJlYWR5IGJlIHByZXNlbnQgKHRoZSBhZG1pbiBVSSB3aWxsIHByb21wdCBpZiBub3QpLiB8CnwgKipgcGFkbGlucS1oZWxwZXItWC5ZLlotd2luZG93cy1hbWQ2NC56aXBgKiogfCBab2lwIG9mIHRoZSByYXcgYmluYXJpZXMgZm9yIHBvd2VyIHVzZXJzIG9yIHNpbGVudC1pbnN0YWxsIGRlcGxveW1lbnQuIHwKCj4gKipSZXF1aXJlbWVudHM6KiogV2luZG93cyAxMCBvciAxMSAoNjQtYml0KSwgaW50ZXJuZXQgY29ubmVjdGlvbiBmb3IgZmlyc3QgcGFpcmluZyAoTEFOLW9ubHkgbW9kZSBhbHNvIGF2YWlsYWJsZSkuCgpbPiBEb3dubG9hZCBsYXRlc3QgcmVsZWFzZSAm#8618;XShodHRwczovL2dpdGh1Yi5jb20vVHJpb21heDY2L3BhZGxpbnEtZGlzdC9yZWxlYXNlcy9sYXRlc3QpCgotLS0KCiMjIEZBUQoKPGRldGFpbHM+CjxzdW1tYXJ5PklzIGl0IHJlYWxseSBmcmVlPzwvc3VtbWFyeT4KClllcyAtLSBmcmVlIHdoaWxlIGluIGJldGEsIHdpdGggbm8gYWNjb3VudCwgbm8gY2FyZCwgYW5kIG5vIHVwc2VsbCBzY3JlZW5zLiBXZeKAmWxsIGJlIHRyYW5zcGFyZW50IHdlbGwgYmVmb3JlIHRoYXQgZXZlciBjaGFuZ2VzLgo8L2RldGFpbHM+Cgo8ZGV0YWlscz4KPHN1bW1hcnk+V2hhdCBkbyBJIG5lZWQ/PC9zdW1tYXJ5PgoKQSBXaW5kb3dzIDEwLzExIFBDLCBhbiBpbnRlcm5ldCBjb25uZWN0aW9uLCBhbmQgYW55IHBob25lIHdpdGggYSBicm93c2VyLiBUaGUgcGhvbmUgZG9lcyBub3QgaGF2ZSB0byBiZSBvbiB0aGUgc2FtZSBXaUZpIGFzIHRoZSBQQy4KPC9kZXRhaWxzPgoKPGRldGFpbHM+CjxzdW1tYXJ5PkRvIEkgbmVlZCB0byBpbnN0YWxsIGFuIGFwcCBvbiBteSBwaG9uZT88L3N1bW1hcnk+CgpOby4gWW91ciBwaG9uZSBqdXN0IGxvYWRzIGEgd2VicGFnZS4gaVBob25lIHVzZXJzIGNhbiB0YXAgIkFkZCB0byBIb21lIFNjcmVlbiIgZm9yIGEgZnVsbHNjcmVlbiwgYXBwLWxpa2UgZXhwZXJpZW5jZSAtLSBzdGlsbCBubyBBcHAgU3RvcmUgaW52b2x2ZWQuCjwvZGV0YWlscz4KCjxkZXRhaWxzPgo8c3VtbWFyeT5Eb2VzIGl0IHdvcmsgd2l0aG91dCBpbnRlcm5ldD88L3N1bW1hcnk+CgpZZXMsIHdpdGggdGhlIGAtLWxhbi1vbmx5YCBmbGFnLiBUaGUgaGVscGVyIHNlcnZlcyB0aGUgYWRtaW4gcGFnZSBvbiB5b3VyIExBTiBhbmQgcGFpcnMgcGhvbmVzIG9uIHRoZSBzYW1lIFdpRmkuIFRoZSBkZWZhdWx0IG9ubGluZSBtb2RlIHVzZXMgYSBzbWFsbCBzaWduYWxsaW5nIHJlbGF5IHRvIGludHJvZHVjZSB0aGUgdHdvIGRldmljZXMsIHRoZW4gZ2V0cyBvdXQgb2YgdGhlIHdheTsgaW5wdXRzIGZsb3cgcGVlci10by1wZWVyIG92ZXIgV2ViUlRDIGluIGJvdGggbW9kZXMuCjwvZGV0YWlscz4KCjxkZXRhaWxzPgo8c3VtbWFyeT5Ib3cgZG9lcyBzY3JlZW4gc3RyZWFtaW5nIHdvcms/PC9zdW1tYXJ5PgoKRW5hYmxlIGl0IGluIHRoZSBhZG1pbiBwYW5lbCBhbmQgeW91ciBQQyBzY3JlZW4gKG9yIGEgc2luZ2xlIHdpbmRvdykgYXBwZWFycyBsaXZlIGJlaGluZCB0aGUgb24tc2NyZWVuIGNvbnRyb2xsZXIuIFRoZSBzdHJlYW0gaXMgY2FwdHVyZWQgdmlhIFdpbmRvd3MgR3JhcGhpY3MgQ2FwdHVyZSBhbmQgc2VudCBwZWVyLXRvLXBlZXIgLS0geW91ciB2aWRlbyBuZXZlciBwYXNzZXMgdGhyb3VnaCBvdXIgc2VydmVycy4KPC9kZXRhaWxzPgoKPGRldGFpbHM+CjxzdW1tYXJ5PkhvdyBtYW55IGNvbnRyb2xsZXJzIGNhbiBJIGNvbm5lY3Q/PC9zdW1tYXJ5PgoKVXAgdG8gZWlnaHQgcGhvbmVzIHBlciBQQy4gRWFjaCBwaG9uZSBnZXRzIGl0cyBvd24gc2Vzc2lvbiBjb2RlIGZyb20gdGhlIGFkbWluIHBhZ2UsIGFuZCB5b3UgY2FuIGZvcmNlIGEgbGF5b3V0IG9yIGJ1dHRvbiBza2luIHBlciBzbG90LgoKPC9kZXRhaWxzPgoKPGRldGFpbHM+CjxzdW1tYXJ5PldoYXQgYWJvdXQgbGF0ZW5jeT88L3N1bW1hcnk+CgpJbnB1dHMgZ28gcGVlci10by1wZWVyIG92ZXIgYSBXZWJSVEMgZGF0YSBjaGFubmVsLiBPbiB0aGUgc2FtZSBXaUZpIHlvdSdsbCB0eXBpY2FsbHkgc2VlIHNpbmdsZS1kaWdpdCBtaWxsaXNlY29uZHM7IGFjcm9zcyBuZXR3b3JrcywgaXQncyByb3VnaGx5IHlvdXIgcGhvbmUncyBwaW5nIHRvIHlvdXIgUEMuCjwvZGV0YWlscz4KCjxkZXRhaWxzPgo8c3VtbWFyeT5Eb2VzIGl0IHdvcmsgb24gbWFjT1Mgb3IgTGludXg/PC9zdW1tYXJ5PgoKTGludXggc3VwcG9ydCBpcyBpbiBiZXRhICh1aW5wdXQgYmFja2VuZCkuIG1hY09TIHN1cHBvcnQgaXMgcGxhbm5lZCBidXQgbm90IHlldCBzaGlwcGVkLgo8L2RldGFpbHM+CgotLS0KCjxwIGFsaWduPSJjZW50ZXIiPgogIDxhIGhyZWY9Imh0dHBzOi8vcGFkbGlucS5jb20iPnBhZGxpbnEuY29tPC9hPiAmbWlkZG90OwogIDxhIGhyZWY9Imh0dHBzOi8vcGFkbGlucS5jb20vcHJpdmFjeSI+UHJpdmFjeTwvYT4KPC9wPg==
+<p align="center">
+  <a href="https://padlinq.com">
+    <img src="https://padlinq.com/favicon.png" width="72" height="72" alt="PadlinQ" />
+  </a>
+  <h3 align="center">PadlinQ</h3>
+  <p align="center"><strong>Your phone is the controller you forgot you had.</strong></p>
+  <p align="center">
+    <a href="https://github.com/Triomax66/padlinq-dist/releases/latest">
+      <img src="https://img.shields.io/github/v/release/Triomax66/padlinq-dist?label=latest&style=flat-square&color=00ff85" alt="Latest release" />
+    </a>
+    <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-blue?style=flat-square" alt="Windows 10/11" />
+    <img src="https://img.shields.io/badge/free-while%20in%20beta-00ff85?style=flat-square" alt="Free while in beta" />
+  </p>
+  <p align="center">
+    <a href="https://padlinq.com">Website</a> &nbsp;·&nbsp;
+    <a href="https://padlinq.com/app">Host a session</a> &nbsp;·&nbsp;
+    <a href="https://github.com/Triomax66/padlinq-dist/releases/latest">Download</a>
+  </p>
+</p>
+
+---
+
+## Three steps. Under a minute.
+
+| | |
+|--|--|
+| **01 · Install** | Run `padlinq-setup.exe`. One click — Windows prompts for admin, the driver is set up for you. |
+| **02 · Claim** | The helper prints a link to `padlinq.com/app` with your PC prefilled. Hit Claim and a session QR appears. |
+| **03 · Play** | Point your phone's camera at the QR. The controller loads in the browser, and Windows sees it as an Xbox pad. |
+
+---
+
+## What it does
+
+> Scan a QR. Play Steam, Game Pass, or any PC game — at home or across the internet. Stream the screen back to your phone, split it between up to 8 players, and pick from 15+ controller layouts. No app on the phone. No cables. No spare controllers to hunt down.
+
+### Play
+
+- **No phone app, ever** — Scan a QR and the controller loads in your phone's browser. iPhone and Android, no App Store, no permissions dance.
+- **Feels like a real gamepad** — Windows sees a virtual Xbox 360 (XInput) or DualShock 4 (DInput) pad. Steam, emulators, Game Pass, every PC game.
+- **Up to 8 players** — Couch co-op for the whole room without ever buying another controller. Each player picks their own layout.
+- **Plays anywhere on the internet** — Default mode pairs over a tiny signalling relay so the phone doesn't need to be on the same WiFi. Inputs flow peer-to-peer over WebRTC after pairing.
+- **Add to Home Screen on iPhone** — PadlinQ installs as a PWA. One tap launches the controller fullscreen — no Safari chrome, no accidental swipes.
+- **Bring your own controller** — Plug in a Backbone, Razer Kishi, or any Bluetooth/USB pad and the phone auto-hides the on-screen layout.
+
+### Stream your PC screen
+
+- **See your game on your phone** — Toggle screen streaming in admin and your PC display appears live behind the on-screen controller — couch, kitchen, patio, anywhere.
+- **Stream a single window** — WGC capture sends just one app instead of the whole desktop. Notifications and second monitors stay private.
+- **Splitscreen for every player** — Drag-and-drop region editor assigns each phone a slice of the stream. One-click presets for 2-up, 3-up, and 2×2 quad.
+- **Hardware-accelerated** — NVENC, Quick Sync, AMF, and VAAPI paths with playout-delay hints set to zero.
+
+### Customize
+
+- **15+ controller layouts** — Xbox, PlayStation, NES, SNES, N64, GameCube, Genesis, Joy-Con (single & dual), fight stick, racing wheel, touchpad, and fully custom.
+- **7 visual themes** — Default, Dark, Neon, Mono, Arcade, Glass, and High-Contrast.
+- **Smart triggers** — Tap = digital press. Drag past the threshold = analog. Same button, both behaviors, no settings menu to learn.
+- **Design your own layout** — In-app editor for every button, stick, and trigger. Resize, reposition, share by URL.
+- **Tilt steering & haptics** — Racing layout uses phone tilt for the left stick. Android gets rumble on every press.
+
+### Trust
+
+- **Peer-to-peer** — The relay only introduces your phone to your PC. Once paired, every byte — inputs, audio, screen — flows directly between the two devices and never touches our servers.
+- **No account. No telemetry.** — No sign-up, no email collection, no analytics ping by default.
+- **Free while in beta** — No card, no nag screens. Uninstall takes everything with it.
+
+---
+
+## Who it's for
+
+| | |
+|--|--|
+| 🛋️ **Couch gaming** | TV mirrored from your PC, phone in hand. No cables, no extra hardware. |
+| 👥 **Game nights** | Friends walk in, scan a QR, they're player two. Skip the controller hunt. |
+| ✈️ **Travel & remote play** | Hotel WiFi, parents' house, anywhere with internet — your PC is one QR away. |
+| 👶 **Kid-friendly** | They use their phones or tablets, not an extra controller. Custom layouts for small hands. |
+| 🕹️ **Retro & emulators** | NES, SNES, N64, fight stick layouts ship in the box. Built for emulator front-ends. |
+| 🎮 **Streamers** | Capture a single game window so your second monitor and notifications stay off-stream. |
+
+---
+
+## Download
+
+| File | When to use |
+|--|--|
+| **`padlinq-setup-X.Y.Z.exe`** | Recommended for most users. Installs the ViGEmBus driver and registers a Start Menu shortcut. |
+| **`padlinq-portable-X.Y.Z.exe`** | Self-contained single executable. Runs without installing. ViGEmBus must already be present (the admin UI will prompt if not). |
+| **`padlinq-helper-X.Y.Z-windows-amd64.zip`** | Raw binaries for power users or silent-install deployment. |
+
+> **Requirements:** Windows 10 or 11 (64-bit) · ~8 MB installer · Uninstall anytime
+
+[**→ Download latest release**](https://github.com/Triomax66/padlinq-dist/releases/latest)
+
+---
+
+## FAQ
+
+<details>
+<summary>Is it really free?</summary>
+
+Yes — free while in beta, with no account, no card, and no upsell screens. We'll be transparent well before that ever changes.
+</details>
+
+<details>
+<summary>What do I need?</summary>
+
+A Windows 10/11 PC, an internet connection, and any phone with a browser. The phone does not have to be on the same WiFi as the PC.
+</details>
+
+<details>
+<summary>Do I need to install an app on my phone?</summary>
+
+No. Your phone just loads a webpage. iPhone users can tap "Add to Home Screen" for a fullscreen, app-like experience — still no App Store involved.
+</details>
+
+<details>
+<summary>Does it work without internet?</summary>
+
+Yes, with the `--lan-only` flag. The helper serves the admin page on your LAN and pairs phones on the same WiFi — no relay involved. The default online mode uses a small signalling relay to introduce the two devices, then gets out of the way; inputs flow peer-to-peer over WebRTC in both modes.
+</details>
+
+<details>
+<summary>How does screen streaming work?</summary>
+
+Enable it in the admin panel and your PC screen (or a single window) appears live behind the on-screen controller. The stream is captured via Windows Graphics Capture and sent peer-to-peer — your video never passes through our servers.
+</details>
+
+<details>
+<summary>How many controllers can I connect?</summary>
+
+Up to eight phones per PC. Each phone gets its own session code from the admin page, and you can force a layout or button skin per slot.
+</details>
+
+<details>
+<summary>What about latency?</summary>
+
+Inputs go peer-to-peer over a WebRTC data channel. On the same WiFi you'll typically see single-digit milliseconds; across networks, it's roughly your phone's ping to your PC.
+</details>
+
+<details>
+<summary>Does it work on macOS or Linux?</summary>
+
+Linux support is in beta (uinput backend). macOS support is planned but not yet shipped.
+</details>
+
+---
+
+<p align="center">
+  <a href="https://padlinq.com">padlinq.com</a> &nbsp;·&nbsp;
+  <a href="https://padlinq.com/privacy">Privacy</a>
+</p>
