@@ -1,21 +1,21 @@
 <p align="center">
   <a href="https://padlinq.com">
-    <img src="https://padlinq.com/favicon.png" width="72" height="72" alt="PadlinQ" />
+    <img src="https://raw.githubusercontent.com/Triomax66/padlinq-dist/main/assets/banner.svg" alt="PadlinQ — Your phone is the controller" width="760" />
   </a>
-  <h3 align="center">PadlinQ</h3>
-  <p align="center"><strong>Your phone is the controller you forgot you had.</strong></p>
-  <p align="center">
-    <a href="https://github.com/Triomax66/padlinq-dist/releases/latest">
-      <img src="https://img.shields.io/github/v/release/Triomax66/padlinq-dist?label=latest&style=flat-square&color=00ff85" alt="Latest release" />
-    </a>
-    <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-blue?style=flat-square" alt="Windows 10/11" />
-    <img src="https://img.shields.io/badge/free-while%20in%20beta-00ff85?style=flat-square" alt="Free while in beta" />
-  </p>
-  <p align="center">
-    <a href="https://padlinq.com">Website</a> &nbsp;·&nbsp;
-    <a href="https://padlinq.com/app">Host a session</a> &nbsp;·&nbsp;
-    <a href="https://github.com/Triomax66/padlinq-dist/releases/latest">Download</a>
-  </p>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Triomax66/padlinq-dist/releases/latest">
+    <img src="https://img.shields.io/github/v/release/Triomax66/padlinq-dist?label=latest&style=flat-square&color=00ff85" alt="Latest release" />
+  </a>
+  <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-blue?style=flat-square" alt="Windows 10/11" />
+  <img src="https://img.shields.io/badge/free-while%20in%20beta-00ff85?style=flat-square" alt="Free while in beta" />
+</p>
+
+<p align="center">
+  <a href="https://padlinq.com">Website</a> &nbsp;·&nbsp;
+  <a href="https://padlinq.com/app">Host a session</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Triomax66/padlinq-dist/releases/latest">Download</a>
 </p>
 
 ---
