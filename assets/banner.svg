@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 180">
+  <rect width="760" height="180" fill="#0e1116"/>
+
+  <defs>
+    <linearGradient id="mg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00ff85"/>
+      <stop offset="100%" stop-color="#00b75e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Q-pad mark: scale 1.6, vertically centred in 180px -->
+  <g transform="translate(99,5) scale(1.6)">
+    <path d="M18,12 H72 Q88,12 88,28 V62 L74,76 H64 L82,94 H72 L60,82 H28 Q12,82 12,66 V28 Q12,12 28,12 Z"
+          fill="none" stroke="url(#mg)" stroke-width="6" stroke-linejoin="miter"/>
+    <g fill="url(#mg)">
+      <rect x="44" y="28" width="12" height="38" rx="1.5"/>
+      <rect x="31" y="41" width="38" height="12" rx="1.5"/>
+    </g>
+    <rect x="46" y="43" width="8" height="8" fill="#0e1116"/>
+  </g>
+
+  <!-- PadlinQ wordmark -->
+  <text x="253" y="118"
+        font-family="'Courier New', Consolas, 'Lucida Console', monospace"
+        font-size="84"
+        font-weight="700"
+        letter-spacing="5"
+        fill="#00ff85">PadlinQ</text>
+
+  <!-- tagline -->
+  <text x="256" y="150"
+        font-family="system-ui, -apple-system, sans-serif"
+        font-size="14"
+        letter-spacing="3.5"
+        fill="#00ff8566">YOUR PHONE IS THE CONTROLLER</text>
+</svg>
