@@ -140,7 +140,7 @@ Inputs go peer-to-peer over a WebRTC data channel. On the same WiFi you'll typic
 <details>
 <summary>Does it work on macOS or Linux?</summary>
 
-Linux support is in beta (uinput backend). macOS support is planned but not yet shipped.
+PadlinQ helper currently runs on Windows 10/11. Other platforms are on the roadmap — follow padlinq.com for updates.
 </details>
 
 ---
